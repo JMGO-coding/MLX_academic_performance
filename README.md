@@ -1,2 +1,6 @@
 # MLX_academic_performance
 In this repository we'll try some explaination methods such as LIME and SHAP in order to explain models that predict academic performance of students at university.
+
+# Sugerencias para la corrección
+- El orden de lectura recomendado es comenzando por ``dt.ipynb``, luego ``svm.ipynb`` y finalmente ``xgboost.ipynb``, todo ello contenido en la carpeta ``src``.
+- Si se desea ejecutar las notebooks, recomendamos el uso de Google colab para garantizar la compatibilidad de todas las librerías.
