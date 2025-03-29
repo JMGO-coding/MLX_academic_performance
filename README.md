@@ -7,5 +7,5 @@ In this repository we'll try some explanation methods such as LIME and SHAP in o
 **Máster en Inteligencia Artificial. Universidad de Murcia.**
 
 # Sugerencias para la corrección
-- El orden de lectura recomendado es comenzando por ``docs.ipynb``, siguiendo ``dt.ipynb``, luego ``svm.ipynb`` y finalmente ``xgboost.ipynb``, todo ello contenido en la carpeta ``src``.
+- El orden de lectura recomendado es comenzando por ``main.ipynb``, siguiendo ``dt.ipynb``, luego ``svm.ipynb`` y finalmente ``xgboost.ipynb``, todo ello contenido en la carpeta ``src``.
 - Si se desea ejecutar las notebooks, recomendamos el uso de Google colab para garantizar la compatibilidad de todas las librerías.
