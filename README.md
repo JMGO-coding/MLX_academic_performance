@@ -4,7 +4,7 @@ In this repository we'll try some explanation methods such as LIME and SHAP in o
 ## Authors:
 **José María García Ortiz, Ana Gil Molina, Domingo Méndez García, Santiago Méndez García.**
 
-## **Máster en Inteligencia Artificial. Universidad de Murcia.**
+**Máster en Inteligencia Artificial. Universidad de Murcia.**
 
 # Sugerencias para la corrección
 - El orden de lectura recomendado es comenzando por ``docs.ipynb``, siguiendo ``dt.ipynb``, luego ``svm.ipynb`` y finalmente ``xgboost.ipynb``, todo ello contenido en la carpeta ``src``.
