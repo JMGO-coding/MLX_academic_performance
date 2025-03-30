@@ -1,7 +1,7 @@
-# MLX_academic_performance
-In this repository we'll try some explanation methods such as LIME and SHAP in order to explain models that predict academic performance of students at university.
+# Machine Learning Explicable. Proyecto práctico.
+En este trabajo aplicamos métodos de explicación a modelos de clasificación para la predicción del éxito académico de estudiantes universitarios.
 
-## Authors:
+## Autores:
 **José María García Ortiz, Ana Gil Molina, Domingo Méndez García, Santiago Méndez García.**
 
 **Máster en Inteligencia Artificial. Universidad de Murcia.**
